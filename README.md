@@ -1,73 +1,92 @@
-# 👩‍💻 **Devika B**  
-
-![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square)  
-📌 *MCA Student at RIT Kottayam | Passionate About Coding & Tech*  
+<h1 align="center">👩‍💻 Devika B</h1>
+<p align="center">
+  📌 MCA Student at RIT Kottayam <br>
+  💡 Passionate about coding, system admin, and building tech that makes a difference!
+</p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20%" alt="Python">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20%" alt="JavaScript">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="20%" alt="Java">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="20%" alt="C++">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
 </p>
 
 ---
 
-## 🌟 **About Me**  
-Hello! I'm **Devika B**, an **MCA student at RIT Kottayam** with a passion for **coding, problem-solving, and technology**. I enjoy working on projects related to **computer networks, system administration, and software development**.  
+## 🌟 About Me
 
-🚀 **Tech Stack:**  
-✔ Python | JavaScript | Java | C++  
-✔ Web Development (HTML, CSS, React)  
-✔ Linux & System Administration  
-✔ Networking & Cybersecurity  
+Hello! I'm **Devika B**, currently pursuing my MCA at **RIT Kottayam**. I love diving into real-world tech — from writing clean backend code to configuring networks and analyzing data. I'm all about learning, solving problems, and creating meaningful solutions with code.
 
----
-
-## 🔥 **Projects**
-### 🖧 **Computer Network & System Administration**
-- **Description:** A set of practical implementations for network configurations, security, and system administration.  
-- **Tech Used:** Linux, Bash, Networking Tools  
-- **GitHub Repo:** [View Project](https://github.com/devika-viswanath/network-admin-lab)  
-
-### 📊 **Data Analysis with Python**
-- **Description:** A data analytics project using Pandas, NumPy, and Matplotlib.  
-- **Tech Used:** Python, Jupyter Notebook  
-- **GitHub Repo:** [View Project](https://github.com/devika-viswanath/data-analysis-python)  
-
-### 🌐 **Full-Stack Web Development**
-- **Description:** A web application built with React.js and Node.js.  
-- **Tech Used:** JavaScript, React, Express.js, MongoDB  
-- **GitHub Repo:** [View Project](https://github.com/devika-viswanath/fullstack-webapp)  
-
----
-
-## 🎯 **Skills**
-✔ Programming: **Python, Java, JavaScript, C++**  
-✔ Web Development: **HTML, CSS, React, Node.js**  
-✔ Networking & Security: **Linux, Bash, SSH, Firewall**  
-✔ Database: **MySQL, MongoDB**  
-✔ Version Control: **Git, GitHub**  
-
----
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devika-viswanath&show_icons=true&theme=radical" alt="Devika's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devika-viswanath&theme=radical" alt="Devika's GitHub Streak">
+<p align="right">
+  <img src="https://media.giphy.com/media/1hHm2zb2g8PzB7lG3n/giphy.gif" width="220" />
 </p>
 
 ---
 
-## 🚀 **How to Reach Me**
-📧 **Email:** your-email@example.com  
-💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourname)  
-🐙 **GitHub:** [devika-viswanath](https://github.com/devika-viswanath)  
+## 🚀 Tech Stack
+
+- 💻 **Languages**: Python, Java, JavaScript  
+- 🌐 **Web**: HTML, CSS, React  
+- 🐧 **System**: Linux, Bash (Shell Scripting)  
+- 🔐 **Networking**: SSH, Firewall, Network Tools  
+- 🗃 **Databases**: MySQL, MongoDB  
+- 🧰 **Tools**: Git, GitHub, VS Code
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="350" />
+</p>
 
 ---
 
-### 🎨 **How to Use This**
-1. Copy the content and paste it into your `README.md` file in your **GitHub profile repository (`devika-viswanath`)**.  
-2. Update **email, LinkedIn, and project links**.  
-3. Enjoy your **attractive GitHub profile!** 🚀  
+## 🔥 Projects
 
-Would you like me to add **animated GIFs, more badges, or interactive elements**? 😊
+### 🖧 Computer Network & System Administration
+- 📝 **Description**: Shell scripts and practical labs for system and network configuration & security.
+- ⚙️ **Tech Used**: Linux, Bash, Networking Tools  
+- 🔗 **Repo**: [View Project](#)
+
+---
+
+### 📊 Data Analysis with Python
+- 📝 **Description**: Data wrangling and visualization using popular Python libraries.
+- 📦 **Tech Used**: Python, Pandas, NumPy, Matplotlib  
+- 🔗 **Repo**: [View Project](#)
+
+---
+
+### 🌐 Full-Stack Web Development
+- 📝 **Description**: A responsive web app with React frontend and Node.js backend.
+- 💻 **Tech Used**: HTML, CSS, JavaScript, React.js, Express.js, MongoDB  
+- 🔗 **Repo**: [View Project](#)
+
+---
+
+## 🎯 Skills
+
+- ☕ Java | 🐍 Python | 🌐 JavaScript  
+- 💡 HTML, CSS, React  
+- 🔐 Linux, Bash, SSH, Firewalls  
+- 🗃 MySQL, MongoDB  
+- 🛠 Git, GitHub
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devika-viswanath&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devika-viswanath&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 **Email**: your-email@example.com  
+- 💼 **LinkedIn**: [Your LinkedIn Profile](#)  
+- 🐙 **GitHub**: [@devika-viswanath](https://github.com/devika-viswanath)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="250" />
+</p>
+
+<p align="center"><b>Thanks for visiting! 💻✨</b></p>
