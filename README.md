@@ -79,8 +79,8 @@ Hello! I'm **Devika B**, currently pursuing my MCA at **RIT Kottayam**. I love d
 
 ## 📫 How to Reach Me
 
-- 📧 **Email**: your-email@example.com  
-- 💼 **LinkedIn**: [Your LinkedIn Profile](#)  
+- 📧 **Email**: devika.workhub@gmail.com 
+- 💼 **LinkedIn**: linkedin.com/in/devikab-mca 
 - 🐙 **GitHub**: [@devika-viswanath](https://github.com/devika-viswanath)
 
 ---
