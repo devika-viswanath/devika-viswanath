@@ -15,7 +15,7 @@
 Hello! I'm **Devika B**, currently pursuing my MCA at **RIT Kottayam**. I love diving into real-world tech — from writing clean backend code to configuring networks and analyzing data. I'm all about learning, solving problems, and creating meaningful solutions with code.
 
 <p align="right">
-  <img src="[https://media.giphy.com/media/1hHm2zb2g8PzB7lG3n/giphy.gif](https://user-content.gitlab-static.net/105e8d0b2769a1dee4d7e232c1907e827bce7f66/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966)" width="220" />
+  <img src="https://user-content.gitlab-static.net/105e8d0b2769a1dee4d7e232c1907e827bce7f66/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966" width="220" />
 </p>
 
 ---
